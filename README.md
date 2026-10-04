@@ -54,7 +54,7 @@ index.html
   <div class="card">
     <!-- PANTALLA 1: Inicio / Misión -->
     <div id="pantalla1" class="screen active">
-      <h1>¡Hola! 👋</h1>
+      <h1>¡Hola Manzanita! 💗</h1>
       <p>Tienes una mini misión para desbloquear un mensaje secreto.</p>
       <button class="btn" onclick="siguientePantalla('pantalla2')">Aceptar misión 🚀</button>
     </div>
@@ -74,7 +74,7 @@ index.html
         Tengo algo importante que decirte... <br><br>
         ¡Me gustas mucho! 💖
       </p>
-      <p>Espero que esta pequeña sorpresa te saque una sonrisa.</p>
+      <p>Espero y ésto no cambie nuestra amistad.</p>
     </div>
   </div>
 
